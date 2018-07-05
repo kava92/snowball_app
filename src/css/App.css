@@ -1,0 +1,15 @@
+body{
+    background-color: #EEE2DC;
+}
+
+ul{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+    margin: auto;
+}
+
+li{
+    color:#123C69;
+}
